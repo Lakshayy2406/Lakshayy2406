@@ -3,12 +3,6 @@
 <h1 align="center">Hi, I'm Lakshay Sharma 👋</h1>
 <h3 align="center">BCA Student · Developer · Building practical Web, AI & IoT projects</h3>
 
-<p align="center">
-  <a href="https://github.com/Lakshayy2406">
-    <img src="https://komarev.com/ghpvc/?username=Lakshayy2406&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  </a>
-</p>
-
 ---
 
 ## 👨‍💻 About Me
